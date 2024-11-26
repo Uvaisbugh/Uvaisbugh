@@ -1,12 +1,11 @@
 # 💫 About Me:
 
-🔭 I’m currently studying.
-👯 I’m looking to collaborate on Django projects, backend development, AI, ML, and content management systems.
-🤝 I’m looking for help with enhancing my skills in React, Django REST framework, AI, ML, and project upscaling techniques.
-🌱 I’m currently learning Artificial Intelligence, Machine Learning, Exploratory Data Analysis, and advanced Django full-stack development.
-💬 Ask me about Python, Django, Flask, AI, ML, and building practical software solutions.
-⚡ Fun fact: I’m a motorsports enthusiast who also loves exploring philosophical ideas and applying them to life and code!
--->
+🔭 I’m currently studying.<br>
+👯 I’m looking to collaborate on Django projects, backend development, AI, ML, and content management systems.<br>
+🤝 I’m looking for help with enhancing my skills in React, Django REST framework, AI, ML, and project upscaling techniques.<br>
+🌱 I’m currently learning Artificial Intelligence, Machine Learning, Exploratory Data Analysis, and advanced Django full-stack development.<br>
+💬 Ask me about Python, Django, Flask, AI, ML, and building practical software solutions.<br>
+⚡ Fun fact: I’m a motorsports enthusiast who also loves exploring philosophical ideas and applying them to life and code!<br>
 
 
 ## 🌐 Socials:
@@ -19,7 +18,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Uvaisbugh&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaisbugh&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
